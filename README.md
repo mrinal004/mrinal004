@@ -1,8 +1,8 @@
 ### HI👋 !!! I am Mrinal Mohan. 
 
- I’m currently working on Data Structures and Algorithms.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on Problem solving and frontend dev.
+ I’m currently working on Spring Boot.
+- 🌱 I’m a good problem solver in DS/Algorithms.
+- 👯 I’m looking to collaborate on Backend Development.
 - 💬 Ask me about problem solving in DSA.
 
 
